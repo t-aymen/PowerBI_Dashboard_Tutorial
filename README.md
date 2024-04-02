@@ -1,4 +1,3 @@
 # PowerBI Dashboard Tutorial
 
-## Data Source
-https://github.com/AlexTheAnalyst
+Data Source: https://github.com/AlexTheAnalyst
